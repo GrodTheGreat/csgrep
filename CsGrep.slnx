@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CsGrep.Tests/CsGrep.Tests.csproj" />
+  <Project Path="CsGrep/CsGrep.csproj" />
+</Solution>
